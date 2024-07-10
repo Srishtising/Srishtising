@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srishtising
-- 👀 I’m interested in ...Data Analytics,Power Bi, Front-End Development
-- 🌱 I’m currently learning ...More about Data
+- 👀 I’m interested in ...Data Analytics, Business Intelligence Analyst, Front-End Development
+- 🌱 I’m currently learning ...More about SQL, Power BI, Python, Data scraping, Pandas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...singhsrishti1103@gmail.com
 - 😄 Pronouns: ...
